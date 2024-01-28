@@ -1,0 +1,160 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgb(24, 22, 22);
+  color: azure;
+}
+    @media (max-width: 991px) {
+    .downloadSection .info {
+        margin-bottom:25px;
+        text-align: center;
+        color: white;
+    }
+
+    .downloadSection .info img {
+        margin:auto;
+        width: 500px;
+    }
+}
+
+.info{
+  display: flex;
+  justify-content: around;
+  align-items: center;
+  color: white;
+  margin: 10px auto;
+  flex-wrap: wrap;
+}
+.info .duration{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-weight: bold;
+}
+
+.main {
+    padding: 10px
+}
+
+
+.color__primary {
+    color: #0006ff
+}
+
+.row {
+    margin: 0!important
+}
+
+.no-padding {
+    padding: 0!important
+}
+
+
+
+.width__max--850 {
+    margin: 0 auto;
+    max-width: 850px
+}
+
+  .downloadSection {
+    margin: 0px auto;
+    width: fit-content;
+  
+}
+
+  .downloadSection .tabs {
+    display: none;
+}
+
+  .downloadSection .tabs .tab {
+    background: #f7f7f7;
+    color: #909090;
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+    width: 100%
+}
+
+  .downloadSection .tabs .tab:hover {
+    background: #e1e1e1;
+    color: #747373
+}
+
+  .downloadSection .tabs .tab.active {
+    background: #0006ff;
+    color: #fff;
+    font-weight: 700
+}
+
+  .downloadSection .tabs .tab.active:hover {
+    background: #0006ff;
+    color: #fff
+}
+
+  .downloadSection .info img {
+    border-radius: 5px;
+    display: block;
+    max-width: 400px;
+    width: 100%
+}
+
+  .downloadSection .info .title {
+    color: #f7f5f5;
+    display: block;
+    font-weight: 700;
+    font-size: large;
+    margin: auto;
+}
+
+  .downloadSection .downloads {
+    background: #f7f7f7;
+    border-radius: 5px;
+    padding: 10px
+}
+
+  .downloadsTable {
+    border-bottom: 1px solid #dedede;
+    margin: 0 auto 20px;
+    max-width: 700px;
+    width: 100%
+}
+
+  .downloadsTable tbody {
+    background-color: #fff;
+    text-align: center
+}
+
+  .downloadsTable tbody td {
+    border-top: 1px solid #dedede;
+    font-size: 16px;
+    padding: 21px 7px
+}
+
+  .downloadsTable tbody td .downloadBtn {
+    background: #0006ff;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 10px 15px;
+    text-decoration: none!important
+}
+
+  .downloadsTable tbody td .downloadBtn:hover {
+    background: #0207bb!important;
+    color: #fff!important;
+    text-decoration: none!important
+}
+
+  .downloadsTable .headerRow {
+    font-size: 17px
+}
+
+  .downloadsTable .headerRow th {
+    margin-bottom: 10px;
+    padding: 20px 7px
+}
+
