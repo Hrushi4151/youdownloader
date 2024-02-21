@@ -192,9 +192,9 @@ export default function Home() {
             high-quality Youtube Video in a few simple steps.
           </p>
           <p className="text-lg py-2">
-            <b>YouDownloader</b> is developed with the purpose of allow users to
+            <b>YouTube Video Downloader</b> is developed with the purpose of allow users to
             download Youtube content (Videos, Photos, Shorts, Stories)
-            quickly. Just paste the Youtube link into the YouDownloader input box to
+            quickly. Just paste the Youtube link into the YouTube Video Downloader input box to
             download any Youtubecontent.
           </p>
           <p className="text-lg py-2">
@@ -205,18 +205,18 @@ export default function Home() {
         </div>
         <div class="ig-section ig-gr-content">
           <h2 class=" my-4 font-bold text-2xl">
-            YouDownloader - Best   Youtube Video Downloader 2024
+            YouTube Video Downloader - Best   Youtube Video Downloader 2024
           </h2>
           <p className="text-lg py-2">
-            <b>What is YouDownloader?</b> YouDownloader is an   Youtube Video Downloader that allows
+            <b>What is YouTube Video Downloader?</b> YouTube Video Downloader is an   Youtube Video Downloader that allows
             to Youtube Shortss, videos, stories, Youtube Shorts  from
-            Youtube in high quality. Just go to YouDownloader and follow the
+            Youtube in high quality. Just go to YouTube Video Downloader and follow the
             instructions to download anything on Youtube in a few easy steps.
           </p>
           <p className="text-lg py-2">
-            YouDownloader is a tool to download Youtube content on a web browser,
+            YouTube Video Downloader is a tool to download Youtube content on a web browser,
             no software installation required. Although born later than other
-      Youtube Video Downloaders, YouDownloader has many outstanding features, helping
+      Youtube Video Downloaders, YouTube Video Downloader has many outstanding features, helping
             users to download all data on Youtube quickly.
           </p>
           <h3 class=" my-4 font-bold text-xl">Key features</h3>
@@ -263,7 +263,7 @@ export default function Home() {
         </div>
         <div class="ig-section guide-area ig-gr-content">
           <h2 class=" my-4 font-bold text-xl">
-            How to download Youtube Shorts and videos with YouDownloader
+            How to download Youtube Shorts and videos with YouTube Video Downloader
           </h2>
           <p className="text-lg py-2">
             <b>Step 1</b>: Open the Youtube app on your phone or go to the
@@ -277,7 +277,7 @@ export default function Home() {
           <p className="text-lg py-2">
             <b>Step 3</b>: Go to the website{" "}
             <a target="_blank" href="https://insta-saver.vercel.app/">
-              <b>YouDownloader</b>
+              <b>YouTube Video Downloader</b>
             </a>
             , paste the Youtube link you just copied into input box and press
             the <strong>Download</strong> button.
@@ -289,7 +289,7 @@ export default function Home() {
           </p>
           <p className="text-lg py-2">
             <i>
-              With YouDownloader you can download any Youtube content (Videos,
+              With YouTube Video Downloader you can download any Youtube content (Videos,
               Photos, Shorts). We will continuously upgrade to bring
               you the best experience! Please share this tool with friends and
               family. Thank you!
@@ -362,7 +362,7 @@ export default function Home() {
                       </li>
                       <li>
                         <i>
-                          (YouDownloader works well on all devices (PC, Mac,
+                          (YouTube Video Downloader works well on all devices (PC, Mac,
                           Android, iOS).)
                         </i>
                       </li>
@@ -388,7 +388,7 @@ export default function Home() {
                 >
                   <div itemprop="text" className="py-2">
                     For iPhone, you need to use <b>Safari</b> browser on iOS 13
-                    or get <b>Documents by Readdle</b> app and go to YouDownloader
+                    or get <b>Documents by Readdle</b> app and go to YouTube Video Downloader
                     → Paste Youtube Video link → Download (
                     <a
                       target="_blank"
@@ -417,7 +417,7 @@ export default function Home() {
                   itemtype="https://schema.org/Answer"
                 >
                   <div itemprop="text" className="py-2">
-                    Copy the Youtube link → Go to YouDownloader → Paste the
+                    Copy the Youtube link → Go to YouTube Video Downloader → Paste the
                     copied Youtube link into the input box → Download.
                   </div>
                 </div>
@@ -472,7 +472,7 @@ export default function Home() {
                     Unfortunately, <b>Youtube</b> does not allow you to
                     download any content. You can go to the{" "}
                     <a target="_blank" href="https://insta-saver.vercel.app/">
-                      YouDownloader
+                      YouTube Video Downloader
                     </a>{" "}
                     website and follow the instructions to download any content
                     on IG.
@@ -486,7 +486,7 @@ export default function Home() {
                 itemtype="https://schema.org/Question"
               >
                 <h4 itemprop="name" className="text-lg py-2 font-semibold">
-                  Do I have to pay to use YouDownloader to download Youtube Shorts
+                  Do I have to pay to use YouTube Video Downloader to download Youtube Shorts
                   and videos?
                 </h4>
                 <div
@@ -497,7 +497,7 @@ export default function Home() {
                   itemtype="https://schema.org/Answer"
                 >
                   <div itemprop="text" className="py-2">
-                    Absolutely not, YouDownloader is a free   Youtube Video Downloader. You
+                    Absolutely not, YouTube Video Downloader is a free   Youtube Video Downloader. You
                     can download any Youtube Video, photo, Shorts
                     and Playlist without paying any cost.
                   </div>
