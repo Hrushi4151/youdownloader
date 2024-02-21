@@ -36,6 +36,17 @@ export default function RootLayout({ children }) {
       />
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8683978034260199"
      crossorigin="anonymous"></script>
+       <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SWE4XHH1YZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SWE4XHH1YZ');
+</script>
+       </head
       <body className={inter.className}>
         <ToastContainer
           position="top-center"
