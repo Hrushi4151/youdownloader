@@ -45,7 +45,7 @@ export default function RootLayout({ children }) {
 
   gtag('config', 'G-SWE4XHH1YZ');
 </script>
-       </head
+       </head>
       <body className={inter.className}>
         <ToastContainer
           position="top-center"
