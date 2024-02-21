@@ -12,7 +12,7 @@ const Footer = () => {
         <div class="sm:flex sm:items-center sm:justify-between">
             <a href="https://insta-saver.vercel.app/" class="flex md:justify-start justify-center items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
                 <img src="/logoinside.png" class="h-10" alt="instasaver Logo" />
-                <div class="flex flex-col self-center text-2xl font-semibold whitespace-nowrap text-white"><span>YOU</span><span>DOWNLOADER</span></div>
+                <div class="flex flex-col self-center text-2xl font-semibold whitespace-nowrap text-white"><span>YouTube Video</span><span>DOWNLOADER</span></div>
             </a>
             <ul class="flex flex-wrap mb-6 text-sm font-medium sm:mb-0 text-gray-400 justify-center items-center">
                 <li>
@@ -33,7 +33,7 @@ const Footer = () => {
             </ul>
         </div>
         <hr class="my-6 sm:mx-auto border-gray-700 lg:my-8" />
-        <span class="block text-sm  text-center text-gray-400">© 2024 <Link href={"/"} class="hover:underline">YouDownloader</Link>. All Rights Reserved.</span>
+        <span class="block text-sm  text-center text-gray-400">© 2024 <Link href={"/"} class="hover:underline">YouTube Video Downloader</Link>. All Rights Reserved.</span>
     </div>
 </footer>
 
