@@ -15,14 +15,14 @@ const page = () => {
       </p>
       <p className="text-lg">
         YouTube Video Downloader is an Youtube downloader, allow to download content
-        (videos, photos, story, Insta reels, IGTV) from Youtube in best
+        (videos, photos, story, youtube Shorts, IGTV) from Youtube in best
         quality. Download Youtube photos and videos on web browser, support
         any device PC, tablet, iPhone, Android.
       </p>
       <p className="text-lg">
         In addition, YouTube Video Downloader also allows download private photos and videos
         from Youtube. Just paste the Youtube link into the YouTube Video Downloader input box
-        and you can download any Insta content without install software.
+        and you can download any youtube content without install software.
       </p>
       <p>
         <img src="/YouTube Video Downloader-min.jpg" width="800" height="399" alt="YouTube Video Downloader" />
@@ -41,8 +41,8 @@ const page = () => {
         Youtube photos to the device.
       </p>
       <p className="text-lg ">
-        - This feature allows download Youtube Reels videos in HD quality with
-        sound. Support download Youtube Reels on PC, iPhone, Android.
+        - This feature allows download Youtube Shorts videos in HD quality with
+        sound. Support download Youtube Shorts on PC, iPhone, Android.
       </p>
       <p className="text-lg ">
         - Download Youtube Story or Highlights in high quality, you can
@@ -55,13 +55,13 @@ const page = () => {
       </p>
       <p className="text-lg ">
         - Allow to download Youtube post content from private account without
-        any restrictions, download Videos, Photos, Insta Reels, Story and IGTV
+        any restrictions, download Videos, Photos, youtube Shorts, Story and IGTV
         from private Youtube account for free.
       </p>
       <p className="text-lg py-4">
         <i>
           With YouTube Video Downloader you can download any Youtube content (Videos,
-          Photos, Reels, Story, IGTV). We will continuously upgrade to bring you
+          Photos, Shorts, Story, IGTV). We will continuously upgrade to bring you
           the best experience! Please share this tool with friends and family.
           Thank you!
         </i>
