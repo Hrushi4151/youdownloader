@@ -21,7 +21,7 @@ export default function Home() {
     e.preventDefault();
     setdisabled("disabled");
     if (url) {
-      if (url.startsWith("https://youtube.com")) {
+      if (url.startsWith("https://you")) {
         const res = await fetch(`${process.env.NEXT_PUBLIC_HOST}api/gettoken`, {
           method: "POST",
           headers: {
