@@ -5,7 +5,7 @@ const page = () => {
     <div className=" -[90vw] md:w-[80vw]  flex justify-center items-center flex-col my-5 mx-auto">
       <div>
         <p className="text-2xl font-bold">Contact Us</p>
-        <p className="text-xl font-semibold">Email: <a href="mailto:sinstasaver@gmail.com">instasaver@gmail.com</a></p>
+        <p className="text-xl font-semibold">Email: <a href="mailto:sinstasaver@gmail.com">youtubevideodownloader@gmail.com</a></p>
         </div>
       <iframe
         src="https://docs.google.com/forms/d/e/1FAIpQLSdeN5hZH6g7aIY6oxvt_if04vW841tNHRPxMeh9jSf01xkFaQ/viewform?embedded=true"
