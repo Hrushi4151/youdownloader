@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <link
         rel="icon"
-        href="/logo.jpg"
+        href="/favicon.ico"
         type="image/<generated>"
         sizes="<generated>"
       />
