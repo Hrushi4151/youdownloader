@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
     "@context": "https://schema.org/",
     "@type": "Website",
     name: "YouTube Video Downloader",
-    url: "https://YouTube-Video-Downloader.vercel.app/",
+    url: "https://youtube-video-downloader51.vercel.app/",
   };
   return (
     <html lang="en">
