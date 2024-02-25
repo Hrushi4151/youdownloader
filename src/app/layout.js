@@ -4,8 +4,6 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { GoogleAnalytics } from '@next/third-parties/google'
-
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -36,7 +34,9 @@ export default function RootLayout({ children }) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemadata) }}
       />
      
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZQRFRCY3D"></script>
+
 
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8683978034260199"
      crossorigin="anonymous"></script>
