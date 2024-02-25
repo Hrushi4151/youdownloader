@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -36,13 +37,7 @@ export default function RootLayout({ children }) {
       />
      
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZQRFRCY3D"></script>
-<script>
-        window && window.dataLayer &&  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)}
-  gtag('js', new Date());
 
-  gtag('config', 'G-VZQRFRCY3D');
-                    </script>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8683978034260199"
      crossorigin="anonymous"></script>
       
@@ -63,6 +58,7 @@ export default function RootLayout({ children }) {
         />
         <Navbar />
         {children}
+                  <GoogleAnalytics gaId="G-VZQRFRCY3D" />
         <Footer />
       </body>
     </html>
