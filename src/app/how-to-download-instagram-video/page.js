@@ -27,7 +27,7 @@ const page = () => {
         <p className="text-lg">
           <img
             className="block ml-auto mr-auto"
-            src="/how-to-web-step-1-min.jpg"
+            src="/how-to-web-step-1-min.webp"
             width="800"
             height="527"
             alt="YouTube Video Downloader"
@@ -47,7 +47,7 @@ const page = () => {
         <p className="text-lg">
           <img
             className="block ml-auto mr-auto"
-            src="/how-to-web-step-2-min.jpg"
+            src="/how-to-web-step-2-min.webp"
             width="800"
             height="411"
             alt="YouTube Video Downloader"
@@ -63,7 +63,7 @@ const page = () => {
         <p className="text-lg">
           <img
            className="block ml-auto mr-auto"
-            src="/how-to-web-step-3-min.jpg"
+            src="/how-to-web-step-3-min.webp"
             width="800"
             height="418"
             alt="YouTube Video Downloader"
