@@ -36,7 +36,7 @@ const page = () => {
         <h2 className="text-xl font-semibold my-2 mt-5">Step 2: Paste the copied Youtube link into YouTube Video Downloader</h2>
         <p className="text-lg">
           - Open a browser and go to the website:{" "}
-          <a target="_blank" href="https://insta-saver.vercel.app/">
+          <a target="_blank" href="https://youtube-video-downloader51.app/">
             YouTube Video Downloader
           </a>
         </p>
@@ -85,7 +85,7 @@ const page = () => {
         </p>
         <p className="text-lg">
           During use, if you encounter an error, please contact us for support:{" "}
-          <a href="mailto:sp.YouTube Video Downloader@gmail.com">contact.YouTube Video Downloader@gmail.com</a>
+          <a href="mailto:instasaver@gmail.com">contact:instasaver@gmail.com</a>
         </p>
       </div>
     </>
