@@ -34,7 +34,6 @@ export default function RootLayout({ children }) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemadata) }}
       />
      
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZQRFRCY3D"></script>
 
 
