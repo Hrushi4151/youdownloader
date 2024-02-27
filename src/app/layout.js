@@ -10,15 +10,17 @@ export const metadata = {
   title: "YouTube Video Downloader | Download Youtube Shorts, Videos, Post - YouTube Video Downloader",
   description:
     "YouTube Video Downloader | Download Youtube Shorts, Videos, Post - YouTube Video Downloader",
-  icon: "/logo.jpg",
+  icon: "/favicon.ico",
 };
 
 export default function RootLayout({ children }) {
   let schemadata = {
     "@context": "https://schema.org/",
     "@type": "Website",
-    name: "YouTube Video Downloader",
-    url: "https://youtube-video-downloader51.vercel.app/",
+    "name": "YouTube Video Downloader",
+    "alternateName":"YouTube Video Downloader Free,YouTube Video Downloader Online",
+    "url": "https://youtube-video-downloader51.vercel.app/",
+    "description":"Youtube Video Download | Download YouTube Video for Free, Download Youtube Shorts Online",
   };
   return (
     <html lang="en">
