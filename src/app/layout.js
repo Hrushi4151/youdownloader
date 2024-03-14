@@ -37,15 +37,16 @@ export default function RootLayout({ children }) {
       />
 
        <script type="text/javascript">
-	atOptions = {
-		"key" : "27391ad4134e1a4f1a58facb40c0624c",
-		"format" : "iframe",
-		"height" : 250,
-		"width" : 300,
-		"params": {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/27391ad4134e1a4f1a58facb40c0624c/invoke.js"></scr' + 'ipt>');
-</script> 
+    var atOptions = {
+	      'key' : '27391ad4134e1a4f1a58facb40c0624c',
+	      'format' : 'iframe',
+	      'height' : 250,
+	      'width' : 300,
+	      'params' : {}
+      };
+    document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/27391ad4134e1a4f1a58facb40c0624c/invoke.js"></scr' + 'ipt>');
+</script>
+ 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZQRFRCY3D"></script>
 
 
